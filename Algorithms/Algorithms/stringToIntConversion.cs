@@ -2,7 +2,7 @@
 using System.Text;
 
 /**
- * Problem Definition: Convert a string to integer 
+ * Problem Definition: For a given string value, validate the input and convert it to an integer 
  */
 
 namespace Algorithms
